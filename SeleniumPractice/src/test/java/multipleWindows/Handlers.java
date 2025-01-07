@@ -1,6 +1,5 @@
 package multipleWindows;
 
-import java.util.List;
 import java.util.Set;
 
 import org.openqa.selenium.By;
